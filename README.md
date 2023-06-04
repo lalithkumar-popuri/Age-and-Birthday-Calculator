@@ -1,4 +1,4 @@
-# python-programming
+#Age and Birthday calculator
 #program for print the month calendar
 #give input month and year separated by space
 month,year=map(int,input("enter month and year ").split())
